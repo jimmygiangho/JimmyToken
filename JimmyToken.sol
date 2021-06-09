@@ -223,7 +223,7 @@ contract PausableToken is StandardToken, Pausable {
   
 }
 
-contract Rokda is PausableToken {
+contract Jimmy is PausableToken {
     string public name;
     string public symbol;
     uint public decimals;
